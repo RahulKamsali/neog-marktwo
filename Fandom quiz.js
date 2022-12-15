@@ -36,43 +36,43 @@ QnLv1=[
 { question : "Who is the director of Baahubali?\n A.Shobu Yarlagadda \n B.Prasad Devineni \n C. S.S.Rajamouli. \n D.Kovelamudi \n",
 answer : "C" },
 { question : "In how many languages Baahubali 2 was released?\n A.2 \n B. 4 \n C. 1 \n D. 3 \n",
-answer : "C"  },
+answer : "D"  },
 { question : "Why did Katappa killed Baahubali? \n A. Because Bhallala Deva wanted Katappa kill to Baahubali \n B. Because Bijjaladeva told to kill Baahubali \n C. Because he himself wanted to kill Baahubali \n D. Because Sivagami told him \n",
- answer : "C" },
+ answer : "A" },
 { question : "What animal sigil is inscribed on Amarendra Baahubali's armor? \n A. Lion \n B. Elephant \n C. Tiger \n D. Horse \n",
-answer : "C" },
+answer : "A" },
 {question : "Do you know the full name of Katappa? \n A. Royal slave Kattappa \n B. Karikala Katappa Nadar \n C. Sathyaraj Katappa \n D. Karikala Kattappa \n",
 answer : "C" },
 {question : "How many tattoos did Shiva draw on Avantika's hands and shoulder? \n A. Four \n B. Three \n C. Two \n D. One \n",
-answer : "C" },]
+answer : "B" },]
 
 QnLv2=[
 { question : "Who is the director of Baahubali?\n A.Shobu Yarlagadda \n B.Prasad Devineni \n C. S.S.Rajamouli. \n D.Kovelamudi \n",
-answer : "C" },
+answer : "B" },
 { question : "In how many languages Baahubali 2 was released?\n A.2 \n B. 4 \n C. 1 \n D. 3 \n",
 answer : "C"  },
 { question : "Why did Katappa killed Baahubali? \n A. Because Bhallala Deva wanted Katappa kill to Baahubali \n B. Because Bijjaladeva told to kill Baahubali \n C. Because he himself wanted to kill Baahubali \n D. Because Sivagami told him \n",
- answer : "C" },
+ answer : "D" },
 { question : "What animal sigil is inscribed on Amarendra Baahubali's armor? \n A. Lion \n B. Elephant \n C. Tiger \n D. Horse \n",
-answer : "C" },
+answer : "A" },
 {question : "Do you know the full name of Katappa? \n A. Royal slave Kattappa \n B. Karikala Katappa Nadar \n C. Sathyaraj Katappa \n D. Karikala Kattappa \n",
 answer : "C" },
 {question : "How many tattoos did Shiva draw on Avantika's hands and shoulder? \n A. Four \n B. Three \n C. Two \n D. One \n",
-answer : "C" },]
+answer : "B" },]
 
 QnLv3=[
 { question : "Who is the director of Baahubali?\n A.Shobu Yarlagadda \n B.Prasad Devineni \n C. S.S.Rajamouli. \n D.Kovelamudi \n",
-answer : "C" },
+answer : "A" },
 { question : "In how many languages Baahubali 2 was released?\n A.2 \n B. 4 \n C. 1 \n D. 3 \n",
-answer : "C"  },
+answer : "D"  },
 { question : "Why did Katappa killed Baahubali? \n A. Because Bhallala Deva wanted Katappa kill to Baahubali \n B. Because Bijjaladeva told to kill Baahubali \n C. Because he himself wanted to kill Baahubali \n D. Because Sivagami told him \n",
  answer : "C" },
 { question : "What animal sigil is inscribed on Amarendra Baahubali's armor? \n A. Lion \n B. Elephant \n C. Tiger \n D. Horse \n",
-answer : "C" },
+answer : "B" },
 {question : "Do you know the full name of Katappa? \n A. Royal slave Kattappa \n B. Karikala Katappa Nadar \n C. Sathyaraj Katappa \n D. Karikala Kattappa \n",
 answer : "C" },
 {question : "How many tattoos did Shiva draw on Avantika's hands and shoulder? \n A. Four \n B. Three \n C. Two \n D. One \n",
-answer : "C" },]
+answer : "B" },]
 
 for(var i=0; i<=totalQn; i++){
   if(i==totalQn) {
